@@ -1,4 +1,3 @@
-/* Estilos gerais, layout, cores, fontes, etc. */
 body { font-family: sans-serif; }
 .container { /* Layout geral */ }
 header { /* Cabeçalho com logo, usuário e título */ }
@@ -6,4 +5,3 @@ nav { /* Barra de navegação lateral */ }
 .content { /* Área de conteúdo principal */ }
 .box { /* Caixas de projetos, ONGs e funcionários */ }
 .graph-box { /* Caixa do gráfico */ }
-/* Estilos específicos para cada elemento, como cores, bordas, etc. */
